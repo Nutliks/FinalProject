@@ -1,0 +1,15 @@
+/Users/annakuznecova/Desktop/Final Work/ControlProject/bin/Debug/net6.0/ControlProject
+/Users/annakuznecova/Desktop/Final Work/ControlProject/bin/Debug/net6.0/ControlProject.deps.json
+/Users/annakuznecova/Desktop/Final Work/ControlProject/bin/Debug/net6.0/ControlProject.runtimeconfig.json
+/Users/annakuznecova/Desktop/Final Work/ControlProject/bin/Debug/net6.0/ControlProject.dll
+/Users/annakuznecova/Desktop/Final Work/ControlProject/bin/Debug/net6.0/ControlProject.pdb
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.csproj.AssemblyReference.cache
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.AssemblyInfoInputs.cache
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.AssemblyInfo.cs
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.csproj.CoreCompileInputs.cache
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.dll
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/refint/ControlProject.dll
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.pdb
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ControlProject.genruntimeconfig.cache
+/Users/annakuznecova/Desktop/Final Work/ControlProject/obj/Debug/net6.0/ref/ControlProject.dll
